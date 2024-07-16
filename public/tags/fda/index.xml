@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FDA on 膳食补充剂资料库</title>
+    <link>http://localhost:1313/tags/fda/</link>
+    <description>Recent content in FDA on 膳食补充剂资料库</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fda/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FDA 101 - 膳食补充剂</title>
+      <link>http://localhost:1313/posts/fda-101---%E8%86%B3%E9%A3%9F%E8%A1%A5%E5%85%85%E5%89%82%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fda-101---%E8%86%B3%E9%A3%9F%E8%A1%A5%E5%85%85%E5%89%82%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</guid>
+      <description>&lt;p&gt;Dietary supplements can help improve health but can also have risks. Get the facts on supplements and how the FDA regulates them to help keep you safe.&lt;br&gt;&#xA;膳食补充剂可以帮助改善健康，但也可能存在风险。了解有关补充剂的事实以及FDA如何监管它们，以帮助确保您的安全。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

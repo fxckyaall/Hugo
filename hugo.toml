@@ -1,0 +1,116 @@
+baseURL = 'https://excited.pages.dev'
+languageCode = 'zh'
+title = "膳食补充剂资料库"
+
+# themesDir = "../../"
+theme = ["whiteplain-light", "whiteplain"]
+
+# Disqus shortname
+# disqusShortname = ""
+# google analytics tracking id
+# googleAnalytics = ""
+pygmentsCodefences = true
+pygmentsUseClasses = true
+pygmentsOptions = "linenos=table"
+# Copyright notice. This is displayer in the footer.
+# copyright = "&copy; Copyright 2024 Hydro"
+
+[params]
+  # useCDN = false
+  # showShareIcons = true
+  # Date format
+  # dateFormat = "January 2, 2006"
+  # Put images/favicon.ico file
+  # favicon = "images/favicon.ico"
+
+# This is displayer in About page.
+[params.author]
+  name = "Hydro"
+
+  # Gravatar or Avatar image
+  #gravatar = "Gravatar email or MD5 Hash"
+  avatar = "/images/avatar.png"
+
+  #x = "X username"
+  #twitter = "Twitter username"
+  #facebook = "Facebook username"
+  #googleplus = "Googleplus username"
+  #instagram = "Instagram username"
+  #threads = "Threads username"
+  #tumblr = "Tumblr username"
+  #flickr = "Flickr username"
+  #reddit = "Reddit username"
+  #linkedin = "Linkedin username"
+  #slideshare = "Slideshare username"
+  #github = "Github username"
+  #gitlab = "Gitlab username"
+  #bitbucket = "Bitbucket username"
+  #stackoverflow = "Stackoverflow username"
+  #jsfiddle = "Jsfiddle username"
+  #codepen = "Codepen username"
+  #deviantart = "Deviantart username"
+  #behance = "Behance username"
+  #dribbble = "Dribbble username"
+  #wordpress = "Wordpress username"
+  #medium = "Medium username"
+  #foursquare = "Foursquare username"
+  #xing = "Xing username"
+  #quora = "Quora username"
+  #youtube = "YouTube username"
+  #tiktok = "TikTok username"
+  #vimeo = "Vimeo username"
+  #whatsapp = "Whatsapp username"
+  #skype = "Skype username"
+  #snapchat = "Snapchat username"
+  #pinterest = "Pinterest username"
+  #telegram = "Telegram username"
+  #vine = "Vine username"
+  #email = "Your email"
+
+[[params.author.social]]
+  name = "邮件"
+  iclass = "fa-solid fa-envelope"
+  url = "mailto:33moq2cpc@mozmail.com"
+
+[[params.author.social]]
+  name = "微信公众号"
+  iclass = "fa-brands fa-weixin"
+  url = "https://weixin.qq.com"
+ 
+
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[[menu.main]]
+  name = "分类"
+  weight = 1
+  identifier = "categories"
+  url = "/categories/"
+[[menu.main]]
+  name = "标签"
+  weight = 2
+  identifier = "tags"
+  url = "/tags/"
+[[menu.main]]
+  name = "归档"
+  weight = 3
+  identifier = "archives"
+  url = "/archives/"
+[[menu.main]]
+  name = "关于"
+  weight = 4
+  identifier = "about"
+  url = "/about/"
+
+# [[menu.footer]]
+#  name = "关于"
+#  weight = 1
+#  identifier = "about"
+#  url = "/about/"
+[[menu.footer]]
+  name = "Link: FDA"
+  weight = 1
+  url = "https://fda.gov" 
